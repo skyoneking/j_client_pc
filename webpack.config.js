@@ -31,6 +31,6 @@ module.exports = {
     devServer: {
         contentBase: resolve('./public'),
         compress: true,
-        port: 3010,
+        port: 4000,
     },
 };
